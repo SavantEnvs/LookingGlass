@@ -1,0 +1,6 @@
+input:escapeKey=KEY_SCROLLLOCK
+input:rawMouse=yes
+input:mouseSens=5
+audio:micDefault=prompt
+audio:resampler=speex
+win:position=center

@@ -1,0 +1,4 @@
+win:fpsMin=30
+win:fullScreen=yes
+win:uiSize=16
+clipboard:toVM=no

@@ -1,0 +1,6 @@
+win:title=Looking Glass
+win:size=1280x720
+win:position=100x50
+win:rotate=90
+app:renderer=EGL
+app:transport=lgmp

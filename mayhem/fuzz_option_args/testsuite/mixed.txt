@@ -1,0 +1,6 @@
+win:width=1920
+-t
+My Title
+-v
+win:scale=0.5
+net:port=77

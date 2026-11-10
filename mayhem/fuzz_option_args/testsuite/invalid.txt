@@ -1,0 +1,4 @@
+bogus
+--unknown
+win:nothing=1
+-w

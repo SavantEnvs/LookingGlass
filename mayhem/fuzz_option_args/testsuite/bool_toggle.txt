@@ -1,0 +1,5 @@
+win:vsync
+-s
+2.5
+net:hosts=a,b
+net:host=h

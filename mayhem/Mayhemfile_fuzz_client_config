@@ -1,0 +1,9 @@
+project: savantenvs/LookingGlass
+target: fuzz_client_config
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_client_config/testsuite
+cmds:
+  - cmd: /mayhem/fuzz_client_config
+    libfuzzer: true
+    timeout: 30
